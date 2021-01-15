@@ -5,7 +5,7 @@
 Here are the observations: 
 Both players have a similar overal shooting performncae. 
 
-![Sample](Curry_vs_Thompson_all.png?raw=true)
+![Sample](Curry_v_Thompson_all.png?raw=true)
 
 
 **Available Files:**
