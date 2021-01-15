@@ -1,11 +1,26 @@
 # curry_v_thompson
  
-## This project compares the shooting performance of Stephen Curry and Klay Thompson in 2018-19 season. It is based on the master code devloped in [this repository](https://github.com/alireza-ebadi/nba_player_shooting_comparison). It is intended to detect areas in which a good player such as Klay Thompson can work on to reach to an elite level of a player such as Stephen Curry. 
+## This project compares the shooting performances of Stephen Curry and Klay Thompson in 2018-19 season. It is based on the master code developed in [this repository](https://github.com/alireza-ebadi/nba_player_shooting_comparison). It is intended to detect areas in which a good player such as Klay Thompson can work on to reach to an elite level of a player such as Stephen Curry. 
 
 Here are the observations: 
-Both players have a similar overal shooting performncae. 
-
+Both players have similar overal shooting performance. 
 ![Sample](Curry_v_Thompson_all.png?raw=true)
+
+But breaking down the shot type, teh following conclusions can be made:
+
+-Thompson is slightly more efficient than Curry in shots attempted in the paint
+![Sample](Curry_v_Thompson_P2.png?raw=true)
+
+-Thompson is noticeably more efficient than Curry in 2-point jumper shots attempted outside the paint. He take more than double CUrry's number while maintaining a better percentage
+![Sample](Curry_v_Thompson_O2.png?raw=true)
+
+-Curry is slightly more efficient than Thompson in 3-point shots attempeted beyond the arc
+![Sample](Curry_v_Thompson_A3.png?raw=true)
+
+-Curry is significantly more efficient than Thompson in corner 3-point shots
+![Sample](Curry_v_Thompson_C3.png?raw=true)
+
+The above observations are summarized in the table below:
 
 
 **Available Files:**
