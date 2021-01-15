@@ -21,11 +21,13 @@ But breaking down the shot type, teh following conclusions can be made:
 ![Sample](Curry_v_Thompson_C3.png?raw=true)
 
 The above observations are summarized in the table below:
-![Sample](Curry_v_Thompson_Table.png?raw=true)
+![Sample](Curry_v_Thompson.png?raw=true)
+
+Verdict: The main difference makers are the 2-point shots outside the paint and corner 3 shots. While Thompson is superior in the former, Curry is dominant in the latter. Thompson can reach to Curry's numbers if he changes some of his the 2-point shots outside the paint into corner threes. Based on my claculations if Thompson changes 20% of his 2-point jumpers into corner three shots, he will reach to Curry's numbers. This is reasonable because the distance to basket and his performance are very similar in both categories. 
 
 
 **Available Files:**
-1. [nba_player_shooting_comparison.ipynb](nba_player_shooting_comparison.ipynb): 
+1. [curry_v_thompson.ipynb](curry_v_thompson.ipynb): 
   -The notebook is segregated into 3 chapters:
     1. import modules and libraries and set parameters
     2. define functions to draw a 2D NBA courts
