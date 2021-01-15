@@ -21,6 +21,7 @@ But breaking down the shot type, teh following conclusions can be made:
 ![Sample](Curry_v_Thompson_C3.png?raw=true)
 
 The above observations are summarized in the table below:
+![Sample](Curry_v_Thompson_Table.png?raw=true)
 
 
 **Available Files:**
